@@ -1,0 +1,14 @@
+mobilenet model - loading from cloud
+
+
+p5- create canvase    -- createCanvase
+
+0-black background
+
+import-p5
+import-ml5''
+
+
+create image classification model and write a callbck function
+
+createImg(imgName,callbackb )
